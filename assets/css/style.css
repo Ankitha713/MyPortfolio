@@ -316,9 +316,9 @@ h6 {
 #hero {
   width: 100%;
   height: 500vh;
-  background: url("../img/hero-bg.jpg") ;
+  background: url("../img/hero-bg.jpg") top right;
   background-size: cover;
-  position: absolute;
+  position: relative;
 }
 
 #hero:before {
