@@ -671,7 +671,7 @@ section {
   position: relative;
 } */
 
-/* .resume .resume-item h4 {
+.resume .resume-item h4 {
   line-height: 18px;
   font-size: 16px;
   font-weight: 700;
@@ -695,9 +695,9 @@ section {
 
 .resume .resume-item ul li {
   padding-bottom: 10px;
-} */
+}
 
-.resume .resume-item:last-child {
+/* .resume .resume-item:last-child {
   padding-bottom: 0;
 }
 
@@ -711,7 +711,7 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #82909c;
-}
+} */
 /* .btn-play {
   position: relative;
   display: block;
