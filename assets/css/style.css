@@ -226,7 +226,7 @@ h6 {
   }
 }
 
-.navbar-mobile {
+/* .navbar-mobile {
   position: fixed;
   overflow: hidden;
   top: 0;
@@ -236,7 +236,7 @@ h6 {
   background: rgba(36, 41, 46, 0.9);
   transition: 0.3s;
   z-index: 999;
-}
+} */
 
 .navbar-mobile .mobile-nav-toggle {
   position: absolute;
@@ -697,7 +697,7 @@ section {
   padding-bottom: 10px;
 }
 
-/* .resume .resume-item:last-child {
+.resume .resume-item:last-child {
   padding-bottom: 0;
 }
 
@@ -711,7 +711,7 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #82909c;
-} */
+}
 /* .btn-play {
   position: relative;
   display: block;
