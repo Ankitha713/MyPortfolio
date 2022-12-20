@@ -664,14 +664,14 @@ section {
   color: #3b434a;
 }
 
-.resume .resume-item {
+/* .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
   border-left: 2px solid #82909c;
   position: relative;
-}
+} */
 
-.resume .resume-item h4 {
+/* .resume .resume-item h4 {
   line-height: 18px;
   font-size: 16px;
   font-weight: 700;
@@ -695,7 +695,7 @@ section {
 
 .resume .resume-item ul li {
   padding-bottom: 10px;
-}
+} */
 
 .resume .resume-item:last-child {
   padding-bottom: 0;
