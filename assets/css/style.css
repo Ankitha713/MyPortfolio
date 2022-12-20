@@ -428,7 +428,7 @@ section {
   position: relative;
 }
 
-.section-title h2 {
+/* .section-title h2 {
   font-size: 32px;
   font-weight: 700;
   text-transform: uppercase;
@@ -437,7 +437,7 @@ section {
   color: #3b434a;
   position: relative;
   z-index: 2;
-}
+} */
 
 .section-title span {
   position: absolute;
@@ -579,14 +579,14 @@ section {
   line-height: 0;
 }
 
-/* .about .content .count-box span {
+.about .content .count-box span {
   font-size: 36px;
   line-height: 30px;
   display: block;
   font-weight: 700;
   color: #3b434a;
   margin-left: 50px;
-} */
+}
 
 .about .content .count-box p {
   padding: 15px 0 0 0;
