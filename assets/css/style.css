@@ -701,7 +701,7 @@ section {
   padding-bottom: 0;
 }
 
-/* .resume .resume-item::before {
+.resume .resume-item::before {
   content: "";
   position: absolute;
   width: 16px;
@@ -711,7 +711,7 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #82909c;
-} */
+}
 /* .btn-play {
   position: relative;
   display: block;
@@ -812,10 +812,10 @@ section {
   font-size: 18px;
 }
 
-.services .title a {
+/* .services .title a {
   color: #111;
   transition: 0.3s;
-}
+} */
 
 .services .description {
   font-size: 15px;
