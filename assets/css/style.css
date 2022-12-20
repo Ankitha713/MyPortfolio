@@ -712,7 +712,7 @@ section {
   background: #fff;
   border: 2px solid #82909c;
 }
-.btn-play {
+/* .btn-play {
   position: relative;
   display: block;
   box-sizing: content-box;
@@ -763,7 +763,7 @@ section {
   border-left: 16px solid var(--primary);
   border-top: 11px solid transparent;
   border-bottom: 11px solid transparent;
-} 
+}  */
 .btn {
   background-color: rgb(255, 196, 0); /* Green */
   border: none;
