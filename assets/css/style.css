@@ -656,13 +656,13 @@ section {
 /*--------------------------------------------------------------
 # My Resume
 --------------------------------------------------------------*/
-/* .resume .resume-title {
+.resume .resume-title {
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
   color: #3b434a;
-} */
+}
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
@@ -701,7 +701,7 @@ section {
   padding-bottom: 0;
 }
 
-.resume .resume-item::before {
+/* .resume .resume-item::before {
   content: "";
   position: absolute;
   width: 16px;
@@ -711,7 +711,7 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #82909c;
-}
+} */
 /* .btn-play {
   position: relative;
   display: block;
