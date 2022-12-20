@@ -712,6 +712,18 @@ section {
   background: #fff;
   border: 2px solid #82909c;
 }
+.btn-play {
+  position: relative;
+  display: block;
+  box-sizing: content-box;
+  width: 16px;
+  height: 26px;
+  border-radius: 100%;
+  border: none;
+  outline: none !important;
+  padding: 18px 20px 20px 28px;
+  background: var(--primary);
+}
 .btn-play span{
   display: block;
   position: relative;
