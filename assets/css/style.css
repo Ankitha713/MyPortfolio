@@ -765,7 +765,7 @@ section {
   border-bottom: 11px solid transparent;
 } 
 .btn {
-  background-color: pink; /* Green */
+  background-color: rgb(226, 213, 21); /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
